@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
           primarySwatch: Colors.blue,
         ),
         routes: {
-          '/': (context) => WebViewExample(),
+          '/': (context) => WebViewPage(),
         });
   }
 }
